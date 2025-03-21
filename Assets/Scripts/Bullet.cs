@@ -21,7 +21,7 @@ public class Bullet : MonoBehaviour
 
 	private void Update()
 	{
-		if (target = null)
+		if (target == null)
 		{
 			Dead();
 			return;
@@ -54,4 +54,3 @@ public class Bullet : MonoBehaviour
 	}
 
 }
-

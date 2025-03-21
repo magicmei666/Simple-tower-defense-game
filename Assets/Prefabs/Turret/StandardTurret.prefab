@@ -129,9 +129,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e6fe3756f0e16e4a97dc7a3f315a047, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackRate: 1
+  enemyList: []
   bulletPrefab: {fileID: 5728211056788952195, guid: 80e36e7e78cd23c4fac0a507f0026e27, type: 3}
-  bulletPosition: {fileID: 0}
+  bulletPosition: {fileID: 2173185369183283425}
+  attackRate: 1
 --- !u!1 &5734134832463424699
 GameObject:
   m_ObjectHideFlags: 0
